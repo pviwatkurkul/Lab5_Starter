@@ -1,7 +1,7 @@
 # Lab 5 - Starter  
 Purich Viwatkurkul  
 
-Expose Page: [Explore](https://pviwatkurkul.github.io/Lab5_Starter/expose.html)
+Expose Page: [Expose](https://pviwatkurkul.github.io/Lab5_Starter/expose.html)  
 Explore Page: [Explore](https://pviwatkurkul.github.io/Lab5_Starter/explore.html)
 
 ## Check your Understanding
